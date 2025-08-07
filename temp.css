@@ -1,0 +1,27 @@
+body{
+    font-family: Arial, helvetica, sans-serif;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 50px;
+}
+h1{
+    color:black;
+}
+input,select,button
+{
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid#ccc; 
+}
+button{
+    background-color: rbc(204, 223, 216);
+    color: black;
+    border: none;
+}
+#result{
+    margin: top 20px;
+    font-size: 20px;
+    color:green;
+}
